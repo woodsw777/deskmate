@@ -1,4 +1,5 @@
 class Hello(object):
+    send_guy = "孙一凡"
     def hehe(self):
         print("say hehe")
 
