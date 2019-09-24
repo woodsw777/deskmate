@@ -10,6 +10,7 @@ wangjian=Hello()
 wangjian.hehe()
 wangjian.eat()
 print(hello.send_guy)
-def start(object):
+def start(program):
     print("这是程序的开始")
-start()
+    print(program)
+start("策划")
