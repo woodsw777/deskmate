@@ -6,3 +6,6 @@ class Hello(object):
 wangjian=Hello()
 wangjian.hehe()
 print(hello.send_guy)
+def start(object):
+    print("这是程序的开始")
+start()
