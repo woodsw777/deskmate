@@ -6,6 +6,8 @@ lass Hello(object):
     def eat(self):
         num = 10000
         print("今晚吃火锅")
+    def drink(self):
+        print("爱喝柠檬水")
 wangjian=Hello()
 wangjian.hehe()
 wangjian.eat()
