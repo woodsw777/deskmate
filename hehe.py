@@ -3,6 +3,7 @@ lass Hello(object):
     def hehe(self):
         print("say hehe")
     def eat(self):
+        num = 10000
         print("今晚吃火锅")
 wangjian=Hello()
 wangjian.hehe()
