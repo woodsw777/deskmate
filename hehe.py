@@ -5,3 +5,4 @@ class Hello(object):
 
 wangjian=Hello()
 wangjian.hehe()
+print(hello.send_guy)
